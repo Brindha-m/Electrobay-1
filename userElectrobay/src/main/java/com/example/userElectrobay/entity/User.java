@@ -47,6 +47,7 @@ public class User {
 
     public String getMobileNumber() {
         return mobileNumber;
+    
     }
 
     public void setMobileNumber(String mobileNumber) {
